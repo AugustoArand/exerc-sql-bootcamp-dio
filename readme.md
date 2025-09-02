@@ -4,6 +4,6 @@ Devido a estar habituado com o Postgres, realizei a transferência do banco de d
 
 ## Imagens das Consultas
 
-![Consulta 01](./assets/consultas/consulta01.png)
+![Consulta 01](./assets/consultas/image.png)
 
 
